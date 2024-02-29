@@ -8,3 +8,11 @@ body{
 --cor-de-texto:#ffffff;
 
 }
+header{
+    display: flex;
+    align-self: center;
+    flex-direction: column-reverse;
+}
+img{
+    width: 230;
+}
