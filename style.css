@@ -1,3 +1,10 @@
 body{
     background-color: rgb(132, 114, 180);
 }
+
+
+:root{
+--cor-de-fundo:#000000;
+--cor-de-texto:#ffffff;
+
+}
