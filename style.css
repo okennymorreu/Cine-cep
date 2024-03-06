@@ -20,3 +20,7 @@ img{
 .imagem {
   width: 30%;
 }
+
+.imagem{
+    display: flex;
+}
