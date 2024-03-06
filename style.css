@@ -27,5 +27,5 @@ img{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
 
-    border: 2px solid var(--cor-de-texto);
+    border: 2px solid var(--cor-de-fundo);
 }
