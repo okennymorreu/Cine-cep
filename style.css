@@ -1,11 +1,12 @@
 body{
-    background-color: rgb(132, 114, 180);
+    background-color: var(--roxo)
 }
 
 
 :root{
 --cor-de-fundo:#000000;
 --cor-de-texto:#ffffff;
+--roxo: rgb(132, 114, 180);
 
 }
 header{
