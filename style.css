@@ -10,9 +10,8 @@ body{
 }
 header{
     display: flex;
-    align-self: center;
-    flex-direction: column-reverse;
+
 }
 img{
-    width: 230;
+    width: 10%;
 }
