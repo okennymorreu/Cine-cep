@@ -26,9 +26,8 @@ img{
     display: flex;
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
-
-    border: 2px solid var(--cor-de-fundo);
-    border-width: 20px 0 0 0;
-    padding: 20px 0 0 0;
+    /* border: 2px solid var(--cor-de-fundo);  */
+    /* border-width: 20px 0 0 0; */
+    padding: 20px;
     margin: 20px 0 0 0;
 }
