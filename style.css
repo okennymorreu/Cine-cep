@@ -21,6 +21,8 @@ img{
   width: 30%;
 }
 
-.imagem{
+.apresentacao{
     display: flex;
+    background-color: var(--cor-de-fundo);
+    color: var(--cor-de-texto);
 }
