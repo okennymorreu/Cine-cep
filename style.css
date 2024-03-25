@@ -16,6 +16,7 @@ header{
 }
 img{
     width: 10%;
+    border-radius: 2.5%;
 }  
 
 .imagem {
@@ -31,7 +32,6 @@ img{
     margin: 20px;
     padding: 20px;
     border-radius: 14px;
-    margin-left: 3rem;
 }
 
 .apresentacao-img {
@@ -39,8 +39,8 @@ img{
     color: var(#ffffff);
     /* border: 2px solid var(--cor-de-fundo);  */
     /* border-width: 20px 0 0 0; */
-    margin: 20px 0 0 0;;
-    padding: 20px 0;;
+    margin: 20px;
+    padding: 20px;
     border-radius: 14px;
     width: 150px;
 }
