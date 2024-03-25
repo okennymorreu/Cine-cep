@@ -24,6 +24,11 @@ header{
     color: #ffffff;
 }
 
+.links {
+    display: flex;
+    justify-content: space-between;
+}
+
 h2 {
     font-size: 28px;
     margin-left: 10px;
