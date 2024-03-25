@@ -19,7 +19,9 @@ img{
 }  
 
 .imagem {
-  width: 100%;
+  width: 50%;
+  height: 50%;
+  margin: 0px 20px;
 }
 
 .apresentacao {
