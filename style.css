@@ -9,15 +9,16 @@ body{
 --roxo: rgb(250, 250, 250);
 
 }
+
 header{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
 }
-img{
-    width: 10%;
-    
-}  
+
+titulo-pagina {
+    font-size: 34px;
+}
 
 h2 {
     font-size: 28px;
