@@ -29,7 +29,9 @@ header{
     display: flex;
     justify-content: space-between;
     color: #ffffff;
-    text-decoration: underline;
+    text-decoration: none;
+    font-size: 18px;
+    margin-bottom: 15px;
 }
 
 h2 {
