@@ -17,7 +17,7 @@ header{
     background-color: var(--cor-de-fundo);
 }
 
-titulo-pagina {
+.titulo-pagina {
     font-size: 34px;
     color: #ffffff;
 }
