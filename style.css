@@ -30,12 +30,13 @@ header{
     justify-content: space-evenly;
     color: #ffffff;
     font-size: 18px;
-    margin: 0px 10px 15px 0;
+    margin: 0px 0 15px 0;
 }
 
 .links a {
     text-decoration: none;
     color: white;
+    margin: 0 10px;
 }
 
 h2 {
