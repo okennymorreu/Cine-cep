@@ -14,10 +14,12 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: var(--cor-de-fundo);
 }
 
 titulo-pagina {
     font-size: 34px;
+    color: #ffffff;
 }
 
 h2 {
