@@ -39,3 +39,7 @@ img{
 .apresentacao {
     display: flex;
 }
+
+.texto {
+    color: #ffffff;
+}
