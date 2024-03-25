@@ -18,6 +18,9 @@ img{
     width: 10%;
 }  
 
+.imagem {
+  width: 100%;
+}
 
 .apresentacao {
     background-color: var(--cor-de-fundo);
