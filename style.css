@@ -16,12 +16,12 @@ header{
 }
 img{
     width: 10%;
-    border-radius: 2.5%;
+    
 }  
 
 .imagem {
-  width: 45%;
-  margin: 0px 20px;
+    width: 100%;
+    border-radius: 2.5%;
 }
 
 .apresentacao {
@@ -42,8 +42,11 @@ img{
     margin: 20px;
     padding: 20px;
     border-radius: 14px;
-    width: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
 }
+
 
 .sobre-nos {
     display: flex;
@@ -52,4 +55,5 @@ img{
 
 .texto {
     color: #ffffff;
+    font-size: 22px;
 }
