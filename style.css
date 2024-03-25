@@ -23,6 +23,7 @@ header{
 .titulo-pagina {
     font-size: 34px;
     color: #ffffff;
+    font-family: "Montserrat", sans-serif;
 }
 
 .links {
@@ -37,11 +38,13 @@ header{
     text-decoration: underline;
     color: white;
     margin: 0 10px;
+    font-family: "Montserrat", sans-serif;
 }
 
 h2 {
     font-size: 28px;
     margin-left: 10px;
+    font-family: "Montserrat", sans-serif;
 }
 
 .imagem {
@@ -86,4 +89,5 @@ h2 {
 h3 {
     color: #ffffff;
     font-size: 24px;
+    font-family: "Montserrat", sans-serif;
 }
