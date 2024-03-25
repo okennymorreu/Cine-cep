@@ -1,5 +1,6 @@
 body{
-    background-color: var(--roxo)
+    background-color: var(--roxo);
+    margin: 0px;
 }
 
 
@@ -15,6 +16,7 @@ header{
     justify-content: center;
     align-items: center;
     background-color: var(--cor-de-fundo);
+
 }
 
 .titulo-pagina {
