@@ -45,6 +45,7 @@ img{
 
 .sobre-nos {
     display: flex;
+    justify-content: space-around;
 }
 
 .texto {
