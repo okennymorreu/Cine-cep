@@ -31,8 +31,18 @@ img{
     margin: 20px;
     padding: 20px;
     border-radius: 14px;
-    text-align: center;
-    margin: 0 20px;
+    margin-left: 3rem;
+}
+
+.apresentacao-img {
+    background-color: var(--cor-de-fundo);
+    color: var(#ffffff);
+    /* border: 2px solid var(--cor-de-fundo);  */
+    /* border-width: 20px 0 0 0; */
+    margin: 20px 0 0 0;;
+    padding: 20px 0;;
+    border-radius: 14px;
+    width: 150px;
 }
 
 .sobre-nos {
