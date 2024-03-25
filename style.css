@@ -32,6 +32,17 @@ img{
     border-radius: 14px;
 }
 
+.apresentacao-img {
+    background-color: var(--cor-de-fundo);
+    color: var(#ffffff);
+    /* border: 2px solid var(--cor-de-fundo);  */
+    /* border-width: 20px 0 0 0; */
+    margin: 20px 0 0 0;;
+    padding: 20px 0;;
+    border-radius: 14px;
+    width: 25%;
+}
+
 .sobre-nos {
     display: flex;
 }
