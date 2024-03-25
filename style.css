@@ -16,18 +16,20 @@ header{
     justify-content: center;
     align-items: center;
     background-color: var(--cor-de-fundo);
+    flex-direction: column;
 
 }
 
 .titulo-pagina {
     font-size: 34px;
     color: #ffffff;
-    display: block;
 }
 
 .links {
     display: flex;
     justify-content: space-between;
+    color: #ffffff;
+    text-decoration: underline;
 }
 
 h2 {
