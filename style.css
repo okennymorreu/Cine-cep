@@ -92,13 +92,14 @@ h3 {
     font-family: "Montserrat", sans-serif;
 }
 
-.equipe{
+.equipe {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
+
 .fotoequipe{
-width: 40%;
+    width: 40%;
 
 }
 
