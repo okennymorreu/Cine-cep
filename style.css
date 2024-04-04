@@ -93,9 +93,9 @@ h3 {
 }
 
 .equipe{
-display: grid;
-grid-template-columns: 33% 33% 33%;
-text-align: center;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
 
 
 
