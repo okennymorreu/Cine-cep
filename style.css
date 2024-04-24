@@ -62,17 +62,15 @@ h2 {
     border-radius: 14px;
 }
 
+
 .apresentacao-img {
     background-color: var(--cor-de-fundo);
-    color: var(#ffffff);
-    /* border: 2px solid var(--cor-de-fundo);  */
-    /* border-width: 20px 0 0 0; */
     margin: 0 20px 20px 20px;
     padding: 20px;
     border-radius: 14px;
-    width: 900px;
     display: flex;
     justify-content: center;
+    height: 82%;
 }
 
 
